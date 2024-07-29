@@ -33,7 +33,6 @@ body {
     position: relative;
     padding: 10px;
     flex-direction: column;
-    gap: 15px;
 }
 
 .imges {
@@ -115,6 +114,7 @@ img:nth-child(4) {
 
 .slide-circles {
     gap: 10px;
+    margin-top: 15px;
 }
 
 .slide-circles span {
