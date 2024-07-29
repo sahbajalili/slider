@@ -134,10 +134,10 @@ img:nth-child(4) {
 
 @media screen and (max-width: 500px) {
     .container {
-        width: 60%;
+        width: 70%;
     }
 
     .imges {
-        height: 15vh;
+        height: 20vh;
     }
 }
