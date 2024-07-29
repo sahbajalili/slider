@@ -132,12 +132,32 @@ img:nth-child(4) {
     background: #000000ae;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1050px) {
+    .container {
+        width: 35%;
+    }
+
+    .imges {
+        height: 35vh;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .container {
+        width: 45%;
+    }
+
+    .imges {
+        height: 30vh;
+    }
+}
+
+@media screen and (max-width: 400px) {
     .container {
         width: 70%;
     }
 
     .imges {
-        height: 20vh;
+        height: 25vh;
     }
 }
